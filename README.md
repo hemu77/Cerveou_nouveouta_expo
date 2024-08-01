@@ -46,8 +46,10 @@ We would like to express our gratitude to the open-source community for their in
 
 The  Disease Diagnosis and Prediction project was developed by a dedicated team of experts in the field of machine learning and healthcare. Each team member brought their unique skills and knowledge to ensure the success of the project.
 
+
+Sai Hemanth Kilaru
+
 Omisha Singal
 
 Santhana Lakshmi
 
-Sai Hemanth Kilaru
